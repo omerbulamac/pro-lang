@@ -1,0 +1,1 @@
+create table defter ( ad varchar(15) not null, soyad varchar(15) not null, yas integer(15) not null);
