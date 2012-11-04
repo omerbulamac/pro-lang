@@ -43,6 +43,7 @@ int main() {
 }
 
 /* c e h a r s */
+    /*2010*/  
 
 /*
 int k = 1;    derleyici k ya bir adres veriyor ve k bu adreste tutuluyor

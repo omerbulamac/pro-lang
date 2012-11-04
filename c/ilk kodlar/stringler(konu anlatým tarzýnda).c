@@ -35,3 +35,5 @@ ve bu yerin başlangıç adresini strdizi değişkenine atayacak...*/
 }
 
 /* c e h a r s */
+    /*2010*/  
+
