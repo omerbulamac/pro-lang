@@ -9,3 +9,5 @@ for i=1:sz(1)
         hist(say) = hist(say) + 1;
     end
 end
+
+%cehars
