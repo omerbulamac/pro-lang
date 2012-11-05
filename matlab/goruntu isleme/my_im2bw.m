@@ -11,7 +11,6 @@ for i=1:sz(1)
         else
             I(i,j) = 255;
         end
-        I(i,j)
     end
 imshow(I)    
 end
