@@ -1,0 +1,52 @@
+analog
+analog
+applet
+uygulama yazýlým
+tarayýcý
+merkezi iþlem birimi (CPU)
+toplamak
+bilgisayar aðý
+CPU
+oluþturmak
+veritabaný yazýlýmý
+masa üstü (masaüstü)
+dijital
+dijital iletiþim
+göstermek
+nokta vuruþlu yazýcý
+e-posta yazýlýmý
+geniþletme kartý
+dosya
+grafik yazýlýmý
+donaným
+mürekkep püskürtmeli yazýcý
+Entegre devre
+klavye
+lap top (Iaptop)
+lazer yazýcý
+mainframe
+korumak
+iþlemek
+izlemek
+fare
+not defteri (notebook)
+iþletim sistemi
+düzenlemek
+süreç
+program
+sorgu
+RAM (Random Access Memory)
+kayýt
+geri almak
+tarayýcý
+ekran
+arama motoru
+sunucu
+yazýlým (program)
+tablo
+depolama aygýtý
+depolamak
+terminal
+aktarmak
+kelime iþlem
+iþ istasyonu (Workstation)

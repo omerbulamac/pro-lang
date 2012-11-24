@@ -1,0 +1,43 @@
+toplam
+birikim
+geri sipariþ
+darboðaz
+arýza
+kapasite
+bileþen
+devir
+teslim
+talep
+kesinti
+akýþ
+tahmin
+boþta
+zaman kurþun
+çok
+makinalar
+make-to-order
+make-to-stok
+malzeme
+optimizasyon
+çýktý
+fazla mesai
+verimlilik
+prototip
+gereklilik
+çalýþtýrmak
+karþýlamak
+zamanlamak
+sýra
+kurmak
+kurulum zamaný
+vardiya
+laçka
+stok
+stok-o ut
+çýktý
+belirsizlik
+güncelleþtirmek
+iþgücü
+çalýþma sürüyor
+iþ yükü
+atölye

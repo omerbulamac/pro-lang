@@ -1,0 +1,43 @@
+aggregate
+backlog
+back order
+bottleneck
+breakdown
+capacity
+component
+cycle
+delivery
+demand
+downtime
+flow
+forecast
+idle
+lead time
+lot
+machinery
+make-to-order
+make-to-stock
+material
+optimization
+output
+overtime
+productivity
+prototype
+requirement
+run
+satisfy
+schedule
+sequence
+set up
+set-up time
+shift
+slack
+stock
+stock-o ut
+throughput
+uncertainty
+update
+workforce
+work in progress
+workload
+workshop
