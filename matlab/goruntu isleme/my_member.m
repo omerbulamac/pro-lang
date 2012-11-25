@@ -9,3 +9,10 @@ for i=1:sz(1)
 end
 matris
 end
+
+% a = [1,2,3,4,5;2,3,4,5,6;3,4,5,6,7]
+% b = 3
+% my_member(a,b)
+
+
+% cehars

@@ -20,5 +20,10 @@ function para_say(resim)
     
     [etiket, sayi] = bwlabel(x);
     fprintf('%d para var.\n', sayi)
-
+    
 end
+
+% para_say('para.png')
+
+
+%cehars

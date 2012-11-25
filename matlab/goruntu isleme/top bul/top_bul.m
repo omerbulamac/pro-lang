@@ -1,6 +1,6 @@
 function top_bul(resim)
    
-   I = imread(resim);
+    I = imread(resim);
     bw = im2bw(I);
     [a,b] = bwlabel(bw);
  
@@ -26,3 +26,8 @@ function top_bul(resim)
     fprintf('%s\n', sonuc);
 
 end 
+
+% top_bul('top.jpg')
+
+
+%cehars

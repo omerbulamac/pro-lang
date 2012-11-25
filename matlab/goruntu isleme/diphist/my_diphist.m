@@ -10,4 +10,6 @@ for i=1:sz(1)
     end
 end
 
+% my_diphist('cameraman.tif')
+
 %cehars
