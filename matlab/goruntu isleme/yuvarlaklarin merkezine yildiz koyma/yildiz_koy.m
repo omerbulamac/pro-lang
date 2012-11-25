@@ -32,3 +32,8 @@ function yildiz_koy(resim)
 
     end
 end
+
+% yildiz_koy('para.png')
+
+
+% cehars
