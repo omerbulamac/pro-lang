@@ -1,5 +1,6 @@
 function para_say(resim)
-I = imread(resim);
+    
+    I = imread(resim);
     bw = im2bw(I);
     temiz = imfill(bw, 'holes');
     
@@ -19,4 +20,5 @@ I = imread(resim);
     
     [etiket, sayi] = bwlabel(x);
     fprintf('%d para var.\n', sayi)
+
 end
