@@ -28,7 +28,7 @@ function yildiz_koy(resim)
 
         hold(imgca,'on')
         plot(imgca,centroids(:,1), centroids(:,2), 'r*')
-        hold('off')
+        hold(imgca,'off')
 
     end
 end
