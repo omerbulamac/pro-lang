@@ -1,4 +1,4 @@
-function I = my_im2bw(resim)
+function I = my_gray2bw(resim)
 I = imread(resim);
 sz = size(I);
 level = graythresh(I);
@@ -14,5 +14,7 @@ for i=1:sz(1)
     end
 imshow(I)    
 end
+
+% my_gray2bw('cameraman.tif')
 
 %cehars

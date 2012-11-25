@@ -1,0 +1,7 @@
+I = imread('cameraman.tif')
+sz = size(I)
+
+for i=1:sz(1)
+    for j=1:sz(2)
+        
+    
