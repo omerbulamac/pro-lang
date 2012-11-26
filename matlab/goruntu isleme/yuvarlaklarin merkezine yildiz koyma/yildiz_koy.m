@@ -20,17 +20,14 @@ function yildiz_koy(resim)
 
     imshow(L);
 
-    for i = 1:length(y)
-        bul = find(L == y(i));
+    s  = regionprops(L, 'centroid');
+    centroids = cat(1, s.Centroid);
 
-        s  = regionprops(L, 'centroid');
-        centroids = cat(1, s.Centroid);
+    hold(imgca,'on')
+    plot(imgca,centroids(:,1), centroids(:,2), 'r*')
+    hold(imgca,'off')
 
-        hold(imgca,'on')
-        plot(imgca,centroids(:,1), centroids(:,2), 'r*')
-        hold(imgca,'off')
-
-    end
+    
 end
 
 % yildiz_koy('para.png')
