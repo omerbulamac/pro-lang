@@ -340,15 +340,6 @@ void main ()
    output_toggle(pin_b2);  
    delay_ms(50);          
    output_toggle(pin_b3); 
-   delay_ms(50);         
-   output_toggle(pin_b4);  
-   delay_ms(50);         
-   output_toggle(pin_b5);  
-   delay_ms(50);         
-   output_toggle(pin_b6);  
-   delay_ms(50);          
-   output_toggle(pin_b7);  
-   delay_ms(50);          
-
+   
    goto basla;
 }

@@ -332,7 +332,9 @@ void main ()
 
    basla:
 
-   output_high(pin_b0);  
+   delay_ms(50);          
+   output_toggle(pin_b0);  
    
+
    goto basla;
 }
