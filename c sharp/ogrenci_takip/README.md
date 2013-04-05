@@ -1,9 +1,9 @@
-Database İsmi
+Database ismi
 -------------
 - data
 
 
-Tablo İsmi
+Tablo ismi
 -----------
 - ogrbil
 
