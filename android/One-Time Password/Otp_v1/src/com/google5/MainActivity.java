@@ -71,7 +71,7 @@ public class MainActivity extends Activity {
 				 		sayi = sayi + 1;
 			    	}
 			    });
-		     }
+		     }i
 		  }, 0, 10000);
 	
 		final Timer zamanlayici1;
