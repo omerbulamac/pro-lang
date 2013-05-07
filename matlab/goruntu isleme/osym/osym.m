@@ -20,8 +20,8 @@ function osym(resim)
    [etiket, sayi] = bwlabel(I);
    osym_logosu = etiket==1
    
-    s = regionprops(osym_logosu, 'centroid')
-    merkez = s.Centroid
+   s = regionprops(osym_logosu, 'centroid')
+   merkez = s.Centroid
     
     if (merkez(1) < sz(2) / 2) && (merkez(2) > sz(1) / 2)
         fprintf('0 derece\n');
