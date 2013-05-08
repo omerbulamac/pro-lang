@@ -5,6 +5,8 @@ parameter N = 4;
 input [N-1:0] a;
 input [N-1:0] b;
 
+// ilklendirmeler
+// ----------------
 // assign a = 4'b0100;
 // assign b = 4'b0010;
 
