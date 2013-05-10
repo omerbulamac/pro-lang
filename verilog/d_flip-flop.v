@@ -6,7 +6,7 @@ output q, q_bar;
 wire d ,clk;
 reg q, q_bar;
 
-always @ (posedge clk) // clk yukselen kenar oldugunda bu blogtaki kodlar isleniyor.
+always @ (posedge clk) // clk yukselen kenar oldugunda bu bloktaki kodlar isleniyor.
 begin
 q <= d;
 q_bar <= !d;
