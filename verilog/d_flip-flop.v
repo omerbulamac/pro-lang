@@ -5,15 +5,15 @@ output q, q_bar;
  
 wire d ,clk;
 reg q, q_bar;
- 
-// assign d = 1'b1;
- 
-always @ (posedge clk)
+
+always @ (posedge clk) // clk yukselen kenar oldugunda bu blogtaki kodlar isleniyor.
 begin
-q <= clk;
-q_bar <= ! clk;
+q <= d;
+q_bar <= !d;
 end
- 
+
+// clk yukselen kenar oldugu anda d degeri ne ise cikisa(q) onu aktar.
+
 endmodule
 
-// force clk 0 0 ns, 1 10 ns -repeat 20 ns
+
