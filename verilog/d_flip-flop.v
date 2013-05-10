@@ -15,5 +15,3 @@ end
 // clk yukselen kenar oldugu anda d degeri ne ise cikisa(q) onu aktar.
 
 endmodule
-
-
