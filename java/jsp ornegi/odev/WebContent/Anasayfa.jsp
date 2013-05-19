@@ -14,5 +14,8 @@ Adınız : <input type="text" name="adi" size="10"  /><br>
 Soyadınız: <input type="text" name="soyadi" size="10" /> <br>
 <input type="submit" value="Gonder" />
 </form>
+
+
+
 </body>
 </html>

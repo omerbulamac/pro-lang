@@ -7,7 +7,7 @@
 <title>kaydet</title>
 </head>
 <body>
-<jsp:useBean id="kaydet1" scope="session" class="com.cnr.kullanici"/>
+<jsp:useBean id="kaydet1" scope="session" class="com.cehars.kullanici"/>
 <jsp:setProperty property="*" name="kaydet1"/>
 
 <a href="goster.jsp">sonuc</a>

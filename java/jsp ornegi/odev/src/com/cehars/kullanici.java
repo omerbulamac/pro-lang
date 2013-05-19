@@ -1,9 +1,10 @@
-package com.cnr;
+package com.cehars;
 
 public class kullanici {
 
 	private String adi;
 	private String soyadi;
+	
 	public void setSoyadi(String soyadi) {
 		this.soyadi = soyadi;
 	}

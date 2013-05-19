@@ -8,7 +8,7 @@
 <title>Goster</title>
 </head>
 <body>
-<jsp:useBean id="kaydet1" class="com.cnr.kullanici" scope="session"/>
+<jsp:useBean id="kaydet1" class="com.cehars.kullanici" scope="session"/>
 <h2>Bilgiler</h2>
 Adı:<%= kaydet1.getAdi()%><br>
 Soyadi:<%= kaydet1.getSoyadi()%>
