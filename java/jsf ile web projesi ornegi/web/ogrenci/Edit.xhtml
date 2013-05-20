@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core">
+
+    <ui:composition template="/template.xhtml">
+        <ui:define name="title">
+            <h:outputText value="#{bundle.EditOgrenciTitle}"></h:outputText>
+        </ui:define>
+        <ui:define name="body">
+            <h:panelGroup id="messagePanel" layout="block">
+                <h:messages errorStyle="color: red" infoStyle="color: green" layout="table"/>
+            </h:panelGroup>
+            <h:form>
+                <h:panelGrid columns="2">
+                    <h:outputLabel value="#{bundle.EditOgrenciLabel_no}" for="no" />
+                    <h:inputText id="no" value="#{ogrenciController.selected.no}" title="#{bundle.EditOgrenciTitle_no}" required="true" requiredMessage="#{bundle.EditOgrenciRequiredMessage_no}"/>
+                    <h:outputLabel value="#{bundle.EditOgrenciLabel_ad}" for="ad" />
+                    <h:inputText id="ad" value="#{ogrenciController.selected.ad}" title="#{bundle.EditOgrenciTitle_ad}" required="true" requiredMessage="#{bundle.EditOgrenciRequiredMessage_ad}"/>
+                </h:panelGrid>
+                <h:commandLink action="#{ogrenciController.update}" value="#{bundle.EditOgrenciSaveLink}"/>
+                <br />
+                <br />
+                <h:link outcome="View" value="#{bundle.EditOgrenciViewLink}"/>
+                <br />
+                <h:commandLink action="#{ogrenciController.prepareList}" value="#{bundle.EditOgrenciShowAllLink}" immediate="true"/>
+                <br />
+                <br />
+                <h:link outcome="/index" value="#{bundle.EditOgrenciIndexLink}" />
+            </h:form>
+        </ui:define>
+    </ui:composition>
+
+</html>
