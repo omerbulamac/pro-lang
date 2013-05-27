@@ -22,7 +22,7 @@ assign p[0] = { 1'b0, m[0] };
 
 genvar j;
 generate
-for(j=0; j<N; j=j+1)
+for(j=1; j<N; j=j+1)
 begin : pmults
 assign y[j-1] = p[j-1][0];
 assign p[j] = m[j] + p[j-1][N:1];
