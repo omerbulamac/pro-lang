@@ -15,13 +15,18 @@ struct v
   	int j;
 }*data, param;   
    	
+   	static pthread_mutex_t mutex_matris;
+   	
+   	
 void *hesapla(void *param)
 {
    	data = (struct v *)param; 
    	int satir = data->i;
    	int sutun = data->j;
- 
+   	
+    pthread_mutex_lock(&mutex_matris);
    	C[satir][sutun] = (A[satir][0]*B[0][sutun]) + (A[satir][1]*B[1][sutun]);
+   	pthread_mutex_unlock(&mutex_matris);
    	pthread_exit(0);
 }
 
@@ -29,6 +34,8 @@ int main() {
    	
    	pthread_t thread[3][3];	
    	int i,j;
+   	
+   	pthread_mutex_init(&mutex_matris, NULL);
    	
 	for (i=0;i<M;i++){
    		for(j=0;j<N;j++){
@@ -52,6 +59,8 @@ int main() {
   		}
    		printf("\n");
    	}
+   	
+   	pthread_mutex_destroy(&mutex_matris);
    	
    	return 0;
 }
