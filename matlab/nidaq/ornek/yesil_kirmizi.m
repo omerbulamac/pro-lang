@@ -55,7 +55,7 @@ function pushbutton4_Callback(hObject, eventdata, handles)
 
 
 function pushbutton5_Callback(hObject, eventdata, handles)
-dio = digitalio('nidaq', 'Dev1')
+    dio = digitalio('nidaq', 'Dev1')
     addline(dio, 0:3,             'Out')
     putvalue(dio,[1 0 0 1])
     delete (dio);
