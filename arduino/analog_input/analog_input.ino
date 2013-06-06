@@ -6,6 +6,6 @@ void setup() {
 void loop() {
   int sensorValue = analogRead(A0); // pinO daki degeri okuyacagiz
                                     // nidaq(get)
-  Serial.println("sensorValue");
+  Serial.println(sensorValue);
   delay(1);
 }
