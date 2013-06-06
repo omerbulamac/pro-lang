@@ -335,6 +335,5 @@ void main ()
    delay_ms(50);          
    output_toggle(pin_b0);  
    
-
    goto basla;
 }
