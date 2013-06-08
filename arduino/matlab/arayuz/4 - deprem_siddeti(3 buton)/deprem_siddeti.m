@@ -101,7 +101,7 @@ global liste;
 global liste_sayac;
     
     % for fadeValue=180:10:250
-    while sayac < 10;
+    while sayac < 6;
 
     int siddet;
     
@@ -118,10 +118,10 @@ global liste_sayac;
     
     a.digitalWrite(11, 0)
     a.digitalWrite(2, 1)
-    pause(0.2);
+    pause(0.3);
     a.digitalWrite(2, 0)
     a.digitalWrite(11, 1)
-    pause(0.2);
+    pause(0.3);
     sayac = sayac + 1;
     plot(liste);
     end
@@ -182,7 +182,7 @@ global liste_sayac;
 
     int siddet;
     
-    siddet = 210;
+    siddet = 255;
     
     a.analogWrite(9, siddet);
     
@@ -195,10 +195,10 @@ global liste_sayac;
     
     a.digitalWrite(11, 0)
     a.digitalWrite(2, 1)
-    pause(0.2);
+    pause(0.3);
     a.digitalWrite(2, 0)
     a.digitalWrite(11, 1)
-    pause(0.2);
+    pause(0.3);
     sayac = sayac + 1;
     plot(liste);
     end
