@@ -1,5 +1,5 @@
 import java.sql.*;
-public class baglanti {
+public class sorgu {
 
 	/**
 	 * @param args
