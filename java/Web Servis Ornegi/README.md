@@ -22,4 +22,4 @@ O da netbeanstan projenin java dosyasýný eclipse eklemek. Web servis istemci pro
 
 Yeni_Web_Servis_Adi.java dosyasýnýda ekledikten sonra test.java dosyasýnýn içeriðini hazýrlayýp servisi test etmek kalýyor. 
 
-Web servisi çalýþtýrýrken netbeans açýk olmalý yoksa web servis kapalý olacaðý için eclips üzerinde çalýþan istemci kodumuza ulaþamaz.
+Web servisi çalýþtýrýrken netbeans açýk olmalý yoksa web servis kapalý olacaðý için eclips üzerinde çalýþan istemci web servisimize ulaþamaz.
