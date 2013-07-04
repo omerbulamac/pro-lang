@@ -1,4 +1,4 @@
-Þimdilik buraya uzunca bir açýklama yazýyorum. Boþ zamanda bu yazý düzenlenip blog haline çevirilecek.
+Boþ zamanda bu yazý düzenlenip blog haline çevirilecek.
 
 Eclipste Web servis oluþturma sýrasýnda oluþan ve çözümününü bulamadýðým hatalar yüzünden Web servisini netbeansta web istemcisinide eclipste hazýrladým.
 
