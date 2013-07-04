@@ -10,4 +10,4 @@ jdbc:mysql://localhost:3306/otel?zeroDateTimeBehavior=convertToNull
 
 bu þekilde alýnýyor.
 
-Tabi projeye mysql-connector-java-5.1.6.jar dosyasýný eklemezsek çalýþmaz.
+Tabi projeye Libraries->Add Library'den MYSQL JDBC Driver eklemeyi unutma
