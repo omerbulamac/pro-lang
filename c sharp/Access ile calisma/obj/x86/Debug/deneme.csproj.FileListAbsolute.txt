@@ -1,0 +1,8 @@
+D:\Çalışmalarım 2013\C #\deneme\bin\Debug\deneme.exe
+D:\Çalışmalarım 2013\C #\deneme\bin\Debug\deneme.pdb
+D:\Çalışmalarım 2013\C #\deneme\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Çalışmalarım 2013\C #\deneme\obj\x86\Debug\deneme.Form1.resources
+D:\Çalışmalarım 2013\C #\deneme\obj\x86\Debug\deneme.Properties.Resources.resources
+D:\Çalışmalarım 2013\C #\deneme\obj\x86\Debug\deneme.exe
+D:\Çalışmalarım 2013\C #\deneme\obj\x86\Debug\deneme.pdb
+D:\Çalışmalarım 2013\C #\deneme\bin\Debug\MySql.Data.dll
