@@ -1,0 +1,15 @@
+D:\Çalışmalarım 2013\C #\Okul\Okul\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Çalışmalarım 2013\C #\Okul\Okul\obj\x86\Debug\Okul.Properties.Resources.resources
+D:\Çalışmalarım 2013\C #\Okul\Okul\bin\Debug\Okul.exe
+D:\Çalışmalarım 2013\C #\Okul\Okul\bin\Debug\Okul.pdb
+D:\Çalışmalarım 2013\C #\Okul\Okul\obj\x86\Debug\Okul.exe
+D:\Çalışmalarım 2013\C #\Okul\Okul\obj\x86\Debug\Okul.pdb
+D:\Çalışmalarım 2013\C #\Okul\Okul\obj\x86\Debug\Okul.Form2.resources
+D:\Çalışmalarım 2013\C #\Okul\Okul\obj\x86\Debug\Okul.Ekle.resources
+D:\Çalışmalarım 2013\C #\Okul\Okul\obj\x86\Debug\Okul.Guncelle.resources
+D:\Çalışmalarım 2013\C #\Okul\Okul\bin\Debug\MySql.Data.dll
+D:\Çalışmalarım 2013\C #\Okul\Okul\obj\x86\Debug\Okul.Guncelle2.resources
+D:\Çalışmalarım 2013\C #\Okul\Okul\obj\x86\Debug\Okul.sil.resources
+D:\Çalışmalarım 2013\C #\Okul\Okul\obj\x86\Debug\Okul.Sil2.resources
+D:\Çalışmalarım 2013\C #\Okul\Okul\obj\x86\Debug\Okul.giris.resources
+D:\Çalışmalarım 2013\C #\Okul\Okul\obj\x86\Debug\Okul.giris2.resources
