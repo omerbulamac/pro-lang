@@ -1,0 +1,9 @@
+c:\users\cehars\documents\visual studio 2010\Projects\Oracle_Baglantisi\Oracle_Baglantisi\bin\Debug\Oracle_Baglantisi.exe
+c:\users\cehars\documents\visual studio 2010\Projects\Oracle_Baglantisi\Oracle_Baglantisi\bin\Debug\Oracle_Baglantisi.pdb
+c:\users\cehars\documents\visual studio 2010\Projects\Oracle_Baglantisi\Oracle_Baglantisi\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\cehars\documents\visual studio 2010\Projects\Oracle_Baglantisi\Oracle_Baglantisi\obj\x86\Debug\Oracle_Baglantisi.Form1.resources
+c:\users\cehars\documents\visual studio 2010\Projects\Oracle_Baglantisi\Oracle_Baglantisi\obj\x86\Debug\Oracle_Baglantisi.Properties.Resources.resources
+c:\users\cehars\documents\visual studio 2010\Projects\Oracle_Baglantisi\Oracle_Baglantisi\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\cehars\documents\visual studio 2010\Projects\Oracle_Baglantisi\Oracle_Baglantisi\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\cehars\documents\visual studio 2010\Projects\Oracle_Baglantisi\Oracle_Baglantisi\obj\x86\Debug\Oracle_Baglantisi.exe
+c:\users\cehars\documents\visual studio 2010\Projects\Oracle_Baglantisi\Oracle_Baglantisi\obj\x86\Debug\Oracle_Baglantisi.pdb
