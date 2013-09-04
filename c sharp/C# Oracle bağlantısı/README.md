@@ -12,7 +12,7 @@ hizmetine sunuyor.
 
 ODAC'ı Oracle'ın sitesinden indirip kuruyoruz.
 
-Visual Studio'da bir forms uygulaması oluşturalım. Sadece oracle ile bağlantı sağlayacağımız için 
+Visual Studio'da bir form uygulaması oluşturalım. Sadece oracle ile bağlantı sağlayacağımız için 
 bir buton işimizi görecektir.
 
 Projemizi oluşturup Solution Explorer penceresinden References alanına sağa tıklıyoruz. 
@@ -28,18 +28,17 @@ conn.ConnectionString = "User ID=SYSTEM; Password=19; Data Source=PC";
 
 veya
 
-conn.ConnectionString = "User ID=SYSTEM; Password=19; Data Source=PC";
+conn.ConnectionString = "User ID=cehars; Password=19; Data Source=PC";
 
 İkisi de sorunsuz bağlanacaktır. 
 
-Birisi sisteme girişte kullanıdğımız username(SYSTEM), diğeri veritabanı kullanıcı adımız.
+Birisi sisteme girişte kullanıdğımız username(SYSTEM), diğeri veritabanı kullanıcı adımız(cehars).
 
 İnternet üzerindeki örneklerde en çok karıştırılan nokta Data Source kısmına yazılacak parametrenin ne olduğu.
 
 Genelde internet üzerinde ya sistem yada veritabanı username yada XE, ORCL gibi anahtar sözcükler kullanılmış.
 
-Hiçbirisi bağlantıyı sağlamadı. Doğru cevabı http://stackoverflow.com/ sitesinden buldum. Data Source 
+Bağlantının başarılı olması için kullanılacak sözcükler bunlar değil. Doğru cevabı http://stackoverflow.com/ sitesinden buldum. 
+Data Source kısmına yazılacak parametre bilgisayar ismi olacak. 
 
-kısmına yazılacak parametre bilgisayar ismi olacak. 
-
-Bu ayarı kendi bilgisayarımıza göre özelleştirdikten sonra bağlantı için kodu çalıştırabiliriz.
+Bu ayarları kendi bilgisayarımıza göre özelleştirdikten sonra bağlantı için kodu çalıştırabiliriz.
