@@ -41,11 +41,16 @@ namespace oracle
             OracleDataAdapter adapter = new OracleDataAdapter();
             adapter.SelectCommand = cmd;
 
-            DataSet dbListe = new DataSet();
+            DataSet dataset = new DataSet();
 
-            adapter.Fill(dbListe);
+            adapter.Fill(dataset);
+            dataGridView1.DataSource = dataset.Tables[0];
+            
+            // veya dataset'e kaydederken karmaşıklığı önlemek için bir parametre verip kaydedebiliriz. 
 
-            dataGridView1.DataSource = dbListe.Tables[0];
+            // adapter.Fill(dataset, "ogrenci_fakulte");
+            // dataGridView1.DataSource = dataset.Tables["ogrenci_fakulte"];
+            
             conn.Close();
         }
     }
