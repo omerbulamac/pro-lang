@@ -20,13 +20,22 @@ namespace oracle
 
         private void button1_Click(object sender, EventArgs e)
         {
-            OracleConnection conn = new OracleConnection();
-            conn.ConnectionString = "User ID=cehars; Password=19; Data Source=PC";
+           //  OracleConnection conn = new OracleConnection();
+           // conn.ConnectionString = "User ID=cehars; Password=19; Data Source=PC";
+            
+            string oradb = "Data Source=(DESCRIPTION="
+             + "(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=ORASRVR)(PORT=1521)))"
+             + "(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=ORCL)));"
+             + "User Id=scott;Password=tiger;";
 
+           
             try
             {
+                OracleConnection conn = new OracleConnection();
                 conn.Open();
-                MessageBox.Show("Veritabanına Baglantı Basarılı.");
+
+                // conn.Open();
+                // MessageBox.Show("Veritabanına Baglantı Basarılı.");
                 
             }
             catch

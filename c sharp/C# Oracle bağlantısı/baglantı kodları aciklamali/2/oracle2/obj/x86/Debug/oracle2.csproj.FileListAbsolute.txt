@@ -1,0 +1,9 @@
+c:\users\cehars\documents\visual studio 2010\Projects\oracle2\oracle2\bin\Debug\oracle2.exe
+c:\users\cehars\documents\visual studio 2010\Projects\oracle2\oracle2\bin\Debug\oracle2.pdb
+c:\users\cehars\documents\visual studio 2010\Projects\oracle2\oracle2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\cehars\documents\visual studio 2010\Projects\oracle2\oracle2\obj\x86\Debug\oracle2.Form1.resources
+c:\users\cehars\documents\visual studio 2010\Projects\oracle2\oracle2\obj\x86\Debug\oracle2.Properties.Resources.resources
+c:\users\cehars\documents\visual studio 2010\Projects\oracle2\oracle2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\cehars\documents\visual studio 2010\Projects\oracle2\oracle2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\cehars\documents\visual studio 2010\Projects\oracle2\oracle2\obj\x86\Debug\oracle2.exe
+c:\users\cehars\documents\visual studio 2010\Projects\oracle2\oracle2\obj\x86\Debug\oracle2.pdb
