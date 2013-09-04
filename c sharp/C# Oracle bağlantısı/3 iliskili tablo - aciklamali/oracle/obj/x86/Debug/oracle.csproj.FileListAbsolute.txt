@@ -1,0 +1,9 @@
+C:\Users\cehars\documents\visual studio 2010\Projects\oracle\oracle\bin\Debug\oracle.exe
+C:\Users\cehars\documents\visual studio 2010\Projects\oracle\oracle\bin\Debug\oracle.pdb
+C:\Users\cehars\documents\visual studio 2010\Projects\oracle\oracle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cehars\documents\visual studio 2010\Projects\oracle\oracle\obj\x86\Debug\oracle.Form1.resources
+C:\Users\cehars\documents\visual studio 2010\Projects\oracle\oracle\obj\x86\Debug\oracle.Properties.Resources.resources
+C:\Users\cehars\documents\visual studio 2010\Projects\oracle\oracle\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cehars\documents\visual studio 2010\Projects\oracle\oracle\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cehars\documents\visual studio 2010\Projects\oracle\oracle\obj\x86\Debug\oracle.exe
+C:\Users\cehars\documents\visual studio 2010\Projects\oracle\oracle\obj\x86\Debug\oracle.pdb
