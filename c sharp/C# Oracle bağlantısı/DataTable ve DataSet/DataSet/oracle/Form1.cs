@@ -20,22 +20,15 @@ namespace oracle
 
         private void button1_Click(object sender, EventArgs e)
         {
-           //  OracleConnection conn = new OracleConnection();
-           // conn.ConnectionString = "User ID=cehars; Password=19; Data Source=PC";
+           OracleConnection conn = new OracleConnection();
+           conn.ConnectionString = "User ID=SYSTEM; Password=19; Data Source=PC";
             
-            string oradb = "Data Source=(DESCRIPTION="
-             + "(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=ORASRVR)(PORT=1521)))"
-             + "(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=ORCL)));"
-             + "User Id=scott;Password=tiger;";
-
            
             try
             {
-                OracleConnection conn = new OracleConnection();
+                
                 conn.Open();
-
-                // conn.Open();
-                // MessageBox.Show("Veritabanına Baglantı Basarılı.");
+                MessageBox.Show("Veritabanına Baglantı Basarılı.");
                 
             }
             catch
@@ -53,6 +46,7 @@ namespace oracle
             DataSet dataset = new DataSet();
 
             adapter.Fill(dataset);
+
             dataGridView1.DataSource = dataset.Tables[0];
             
             // veya dataset'e kaydederken karmaşıklığı önlemek için bir parametre verip kaydedebiliriz. 
