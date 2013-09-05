@@ -9,3 +9,5 @@ C:\Users\cehars\documents\visual studio 2010\Projects\oracle\oracle\obj\x86\Debu
 C:\Users\cehars\documents\visual studio 2010\Projects\oracle\oracle\obj\x86\Debug\oracle.pdb
 C:\github\pro-lang\c sharp\C# Oracle bağlantısı\DataSet ve DataTable\DataSet\oracle\obj\x86\Debug\oracle.exe
 C:\github\pro-lang\c sharp\C# Oracle bağlantısı\DataSet ve DataTable\DataSet\oracle\obj\x86\Debug\oracle.pdb
+C:\github\pro-lang\c sharp\C# Oracle bağlantısı\DataTable ve DataSet\DataSet\oracle\obj\x86\Debug\oracle.exe
+C:\github\pro-lang\c sharp\C# Oracle bağlantısı\DataTable ve DataSet\DataSet\oracle\obj\x86\Debug\oracle.pdb
